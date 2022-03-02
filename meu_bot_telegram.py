@@ -11,6 +11,8 @@ pip install pytelegrambotapi
 
 import telebot
 
+##Token Revogado
+
 CHAVE_API = "5213041393:AAHJurrybGzMAv82uR0LnMLt-zbW5D63FnE"
 
 bot = telebot.TeleBot(CHAVE_API)
